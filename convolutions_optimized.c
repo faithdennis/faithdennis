@@ -1,6 +1,8 @@
 #include <omp.h>
 #include <x86intrin.h>
 
+// Originally created in September 2023, copied to a file in this repository from another repository for public view.
+// Found an interesting article on a related subject: https://john-chapman.github.io/2019/03/29/convolution.html 
 // TO DO: Clean up code and make consistent :)
 
 // Computes the dot product of two vectores, vec1 and vec2, both of size n
