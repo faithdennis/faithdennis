@@ -1,8 +1,10 @@
-Hi! Welcome to my 2D tag readme. 
+Hi! Welcome to my 2D tag readme.
 
-2DTag is a simple game I developed when learning object oriented programming demonstrating the four principles: encapsulation, inheritance, polymorphism, and abstraction.
+2DTag is a simple game I developed in 2022 demonstrating the four principles of object oriented programming: encapsulation, inheritance, polymorphism, and abstraction.
 
-The game is based on the campus where I went to university and can include up to two players for a tag - like mechanism. 
-Some additional components to the gameplay I may add in the future include automating the second player when not manually controlled. 
+The game is based on the campus where I go to university. Players either spawn as a TA or as a student and must either find the student or collect the documents. It can include up to two players for a tag - like mechanism, but can otherwise be played alone. Some additional components to the gameplay I would add in the future would be implementing path planning and automation to the second player, designing a better random map generation algorithm, and increasing game complexity. 
+
 The files provided range from underlying game mechanics to player and map design. 
-RandomUtils was provided to me to modify, and I designed the implementation of and wrote all other files. Enjoy!
+RandomUtils was provided to me to modify, and I designed the implementation of and wrote all other files. 
+
+Enjoy!
