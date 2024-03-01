@@ -1,9 +1,9 @@
 #include <omp.h>
 #include <x86intrin.h>
 
-// Originally created in September 2023, copied to a file in this repository from another repository for public view.
-// Found an interesting article on a related subject: https://john-chapman.github.io/2019/03/29/convolution.html 
-// TO DO: Clean up code and make consistent :)
+// I originally created this in September 2023 to learn how convolutions can be optimized using different techniques in C, and I copied it to a file in this repository from another repository for public view.
+// I found an interesting article on a related subject: https://john-chapman.github.io/2019/03/29/convolution.html 
+// Next: Clean up code and make it consistent.
 
 // Computes the dot product of two vectores, vec1 and vec2, both of size n
 int32_t naive_dot(uint32_t n, int32_t *vec1, int32_t *vec2) {
