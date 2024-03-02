@@ -1,5 +1,5 @@
-# Omitted files containing data and files used to featurize them
-# Goal is to experiment with ML techniques with minimal use of libraries. The SVM has been blackboxed and is being used via sklearn library. 
+# I have omitted files containing data and files used to featurize them
+# The goal is to experiment with ML techniques with minimal use of libraries. SVM stands for support vector machine which is a classical machine learning model for classifying linearly separable data by finding a margin between two classes. Traditionally used for binary classifications, it can be used for multiple classes via implementing the technique multiple times to accomodate all classes. SVM is also a convex optimization model (relies on techniques for convex sets of data). The SVM has been blackboxed and is being used via sklearn library. 
 
 from sklearn import svm
 import pandas as pd
