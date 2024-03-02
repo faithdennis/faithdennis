@@ -5,6 +5,7 @@
 ✨ My goal is to develop strong software dev skills and knowledge of fundamental concepts in DevOps and AI/ML and use them in algorithm development and deployment and perception in distributed robotic systems. 
 
 My strengths as a developer: detail oriented, values clean, well designed code, good problem solving skills, experience teaching others, learning new things and utilizing resources
+
 My weaknesses as a developer: may need to ask a lot of questions to understand the problem, stepping away from a bug I'm trying to resolve, remembering built-in functions and syntax and retaining information I don't use a lot, lack of experience in industry
 
 You can reach me on LinkedIn for any questions. Thanks. 
