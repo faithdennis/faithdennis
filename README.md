@@ -1,4 +1,4 @@
-### Hi 👋 My name is Faith. This is a repo I'm building to feature different projects I would like to share.
+### Hi 👋 My name is Faith. This is a repo I'm building to feature different projects I want to share.
 
 🌱 I am currently growing my software development skills and sharpening them while studying artificial intelligence algorithms and robotics at university. 🌱
 
