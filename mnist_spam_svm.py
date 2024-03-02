@@ -2,6 +2,7 @@
 # Goal is to experiment with ML techniques with minimal use of libraries. The SVM has been blackboxed and is being used via sklearn library. 
 
 from sklearn import svm
+import pandas as pd
 import matplotlib.pyplot as plt
 
 mnist = np.load("../data/mnist-data.npz")
