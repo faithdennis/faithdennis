@@ -1,8 +1,8 @@
 ### Hi 👋 My name is Faith. This is a repo I'm building to feature different projects I would like to share.
 
-🌱 I am currently growing my software development skills and sharpening them while studying artificial intelligence algorithms and robotics at university.
+🌱 I am currently growing my software development skills and sharpening them while studying artificial intelligence algorithms and robotics at university. 🌱
 
-My goal is to develop strong software dev skills and knowledge of fundamental concepts in DevOps and AI/ML and use them in algorithm development and deployment and perception in distributed robotic systems. You can reach me on LinkedIn for any questions. Thanks.
+✨ My goal is to develop strong software dev skills and knowledge of fundamental concepts in DevOps and AI/ML and use them in algorithm development and deployment and perception in distributed robotic systems. You can reach me on LinkedIn for any questions. Thanks. ✨
 
 <!--
 **faithdennis/faithdennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
