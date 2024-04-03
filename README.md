@@ -10,7 +10,7 @@ My current areas of opportunity: stepping away from a task I'm trying to complet
 
 You can reach me on LinkedIn for any questions. Thanks. 
 
-Laymen translations: 
+Laymen translations for learners: 
 ds_ml ==> datascience_machinelearning ==> data workflows, pipelines
 swe ==> softwareengineering ==> general, multi-part programs
 
