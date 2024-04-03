@@ -10,6 +10,10 @@ My current areas of opportunity: stepping away from a task I'm trying to complet
 
 You can reach me on LinkedIn for any questions. Thanks. 
 
+Laymen translations: 
+ds_ml ==> datascience_machinelearning ==> data workflows, pipelines
+swe ==> softwareengineering ==> general, multi-part programs
+
 <!--
 **faithdennis/faithdennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
