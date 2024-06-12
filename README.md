@@ -2,12 +2,6 @@
 
 🌱 I am currently growing my software development skills and sharpening them while studying artificial intelligence algorithms and robotics at university. 
 
-✨ My goal is to develop strong software dev skills and knowledge of fundamental concepts in DevOps and AI/ML and use them in algorithm development and deployment and perception in distributed robotic systems. 
-
-My current strengths: detail oriented, values clean, well designed code, good problem solving skills, experience teaching others, learning new things and utilizing resources, work ethic, generalist knowledge, retains good intuition of things I've learning
-
-My current areas of opportunity: stepping away from a task I'm trying to complete, remembering built-in functions and syntax and retaining details I don't use a lot, lack of experience in industry
-
 You can reach me on LinkedIn for any questions. Thanks. 
 
 Laymen translations for learners: 
