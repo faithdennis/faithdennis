@@ -1,6 +1,6 @@
-### Hi 👋 My name is Faith. 
+### Hi 👋 
 
-🌱 I am currently learning software development and machine learning. 
+My name is Faith. I am currently learning software development and machine learning. 🌱 
 
 You can reach me on LinkedIn for any questions. Thanks. 
 
