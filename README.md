@@ -1,6 +1,6 @@
-### Hi 👋 My name is Faith. This is a repo I'm building to feature different projects I want to share.
+### Hi 👋 My name is Faith. 
 
-🌱 I am currently growing my software development skills and sharpening them while studying artificial intelligence algorithms and robotics at university. 
+🌱 I am currently learning software development and machine learning. 
 
 You can reach me on LinkedIn for any questions. Thanks. 
 
