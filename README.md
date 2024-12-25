@@ -1,4 +1,4 @@
-### Hi 👋 
+### Welcome 👋 
 
 My name is Faith. I am currently learning software development and machine learning. 🌱 
 
