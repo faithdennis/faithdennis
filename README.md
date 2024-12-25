@@ -1,6 +1,8 @@
 ### Welcome 👋 
 
-My name is Faith. I am currently learning software development and machine learning. 🌱 
+My name is Faith. I am currently learning software development and machine learning. I also conduct research leveraging my data science and cognitive science background. 🌱 
+
+In this repository you will find small, assorted projects organized by topic.
 
 You can reach me on LinkedIn for any questions. Thanks. 
 
